@@ -1,0 +1,16 @@
+[
+  {
+    "messageId": "2",
+    "sender": "Unknown",
+    "recipient": "+27838884567",
+    "text": "Where are you? You are late! I have asked you to be on time.",
+    "flag": "STORED"
+  },
+  {
+    "messageId": "5",
+    "sender": "Unknown",
+    "recipient": "+27838884567",
+    "text": "Ok, I am leaving without you.",
+    "flag": "STORED"
+  }
+]
